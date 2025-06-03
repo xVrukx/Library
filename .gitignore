@@ -1,0 +1,16 @@
+# PyInstaller
+build/
+dist/
+*.spec
+*.exe
+*.pyc
+__pycache__/
+*.pyd
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Icon/Converted junk
+*.ico
+*.png
