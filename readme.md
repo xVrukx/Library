@@ -1,6 +1,6 @@
-# PyData Copy Tool
+# PyData (Library manager)
 
-A lightweight Python utility that copies or manipulates data, packaged into a single `.exe` with embedded version metadata and a custom application icon using **PyInstaller**.
+A lightweight Python utility that manages books members, packaged into a single `.exe` with embedded version metadata and a custom application icon using **PyInstaller**.
 
 ---
 
@@ -9,9 +9,4 @@ A lightweight Python utility that copies or manipulates data, packaged into a si
 - ✅ Single-file `.exe` build using PyInstaller
 - ✅ Embedded version and product info
 - ✅ Custom `.ico` icon in Windows Explorer
-- ✅ Console-based operation (no GUI)
-
----
-
-## 📁 Project Structure
-
+- ✅ with GUI using Tkinter
