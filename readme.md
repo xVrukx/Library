@@ -79,5 +79,8 @@ Vruk (vrukcodes)
 Python + Backend Dev
 GitHub: github.com/xVrukx
 
+👩Guide
+KI my sensei guided me and helped me throught this project
+
 📄 License
 MIT – Free to use, modify, and share.
