@@ -81,7 +81,3 @@ GitHub: github.com/xVrukx
 
 📄 License
 MIT – Free to use, modify, and share.
-
-yaml
-Copy
-Edit
